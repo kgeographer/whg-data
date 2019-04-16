@@ -1,6 +1,6 @@
 ##  Files
 
-###HGIS de las Indias (1701-1808)
+###HGIS de las Indias (1701-1808)###
 *(see [https://www.hgis-indias.net/](https://www.hgis-indias.net/))*
 
 **lugares_13k.jsonld**: 13,258 places (*lugares*)
@@ -9,7 +9,7 @@
 
 ----
 
-###ToposText
+###ToposText###
 
 *(see [https://topostext.org/the-places](https://topostext.org/the-places))*
 
